@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485874493092",
+    "firebase_url": "https://tourismcif.firebaseio.com",
+    "project_id": "tourismcif",
+    "storage_bucket": "tourismcif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485874493092:android:bd7c0e8c9f4e0ebdb32831",
+        "android_client_info": {
+          "package_name": "com.example.tourism_cif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485874493092-cenfaiqd6rl4d1qglc923mr6sjeoug90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourism_cif",
+            "certificate_hash": "12eaff9f288c3bac22082e026efe48e32cc37957"
+          }
+        },
+        {
+          "client_id": "485874493092-7uphvcdbivdu8fcusbfsiimnqnc0tmtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTiRk7T3FcQheA2aqLLfK2biHmo6qMHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485874493092-7uphvcdbivdu8fcusbfsiimnqnc0tmtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="Explore" />
+    <item
+        android:id="@+id/nav_fav"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favourite" />
+    <item
+        android:id="@+id/nav_trip"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="Trip" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+</menu>
